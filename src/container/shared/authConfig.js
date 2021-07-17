@@ -1,0 +1,9 @@
+export const client_id = "tJxgfiI9uz5lGJNx159xWCv7sQzMjkD1"
+export const client_secret = "98YPO1_bxHRlD3ZcXQAmHlkO_jlv2L-emsHBXk5lrfZWcA2xxqVu2U1IpUXs0JvV"
+export const redirect_uri = "http://localhost:3000/"
+export const grant_type = "authorization_code"
+export const scope = "openid%20profile"
+export const response_type = "code"
+export const response_mode = 'query'
+export const state = 'AmQFtlXPHU7DYi1XLS8ElBmjuYwBtBdVF74fb777e093f647b9a0ec8d6ff3ff2bd6'
+export const domain_url = 'https://raghavagrawal.us.auth0.com'
